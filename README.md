@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursing **Master of Science in Software Engineering Systems**
 
-- 👨‍💻 All of my projects are available at [abhinavpandey.me](abhinavpandey.me)
+- 👨‍💻 All of my projects are available at https://abhinavpandey.me/
 
 - 📫 How to reach me **abhinavp.klg@gmail.com**
 
