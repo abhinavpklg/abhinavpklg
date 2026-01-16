@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpklg&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpklg" /> </p>
 
-- 🌱 Recently graducated with a **Master of Science in Software Engineering Systems**
+- 🌱Graduated with a **Master of Science in Software Engineering Systems**
 
 - 📫 How to reach me **abhinavp.us@gmail.com**
 
